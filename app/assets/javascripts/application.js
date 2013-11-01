@@ -12,6 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require showdown
 //= require turbolinks
 //= require handlebars
 //= require ember
